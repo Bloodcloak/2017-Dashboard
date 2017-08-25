@@ -9,6 +9,6 @@ This is to be used with 2017-RobotCodeV4 but can be edited to work with the othe
   
   ) Automated pull from hardcoded file path for the configuration clusters upon app boot
   
-  ) Dashboard side timer logic which is able to change the color of the time remaining indicator in corralation to coded times as a quick reminder
+  ) Dashboard side logic which is able to change the color of the time remaining indicator in corralation to coded times for a quick reminder during a match
   
   ) automated push of the selected auton when a reconnect event happens.

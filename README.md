@@ -1,7 +1,7 @@
 # 2017-Dashboard
 Our drivestation labview dashboard for the 2017 season.
 
-# Due to a team break, the files will not be uploaded at this time. The estimated upload date is September 5th
+# At the moment, the files will not be uploaded at this time due to other commitments outside of the team. The estimated upload date is Mid to Late September. Sorry about that!
 
 This is to be used with 2017-RobotCodeV4 but can be edited to work with the other 2017 code we have published. Some features within this dashboard are: 
   

@@ -1,8 +1,6 @@
 # 2017-Dashboard
 Our drivestation labview dashboard for the 2017 season.
 
-# The files will not be uploaded at this time due to other commitments outside of the team. The estimated upload date is Mid to Late September.
-
 This is to be used with 2017-RobotCodeV4 but can be edited to work with the other 2017 code we have published. Some features within this dashboard are: 
   
   ) Cluster file saving and sending of varables to the robot
